@@ -1,2 +1,2 @@
-# Pagina-Principal-Instagram-DIO
- desafio de reconstruir a página inicial de login do Instagram
+# Página Principal Instagram - DIO
+ Desafio de reconstruir a página inicial de login do Instagram
