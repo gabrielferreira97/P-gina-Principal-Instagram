@@ -1,5 +1,3 @@
-
- Desafio de reconstruir a página inicial de login do Instagram
 <h1 align="center">
 <br>
   <img src="https://github.com/gabrielferreira97/Pagina-Principal-Instagram/blob/main/img/instagram-logo.png?raw=true" alt="instagram" width="120">
