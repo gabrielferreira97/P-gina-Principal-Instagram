@@ -15,7 +15,7 @@ Página Principal Instagram
 </p>
 
 ## Features
-This extension features all the latest tools and practices in web development!
+This site features all the latest tools and practices in web development!
 
 - 🖥️ **HTML** —  Markup language for building web pages.
 - ✔️ **CSS** — Mechanism for adding style to a web document.
